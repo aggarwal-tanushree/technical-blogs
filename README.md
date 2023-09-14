@@ -1,3 +1,19 @@
+## Hi 👋, I am Tanushree :woman_technologist:
+An application support professional, passionate about the Cloud! ☁️
+
+## My Current Tech Stack
+
+- AWS
+- Terraform
+- Linux
+- Python
+- Git
+- Docker
+
+## My Articles on Dev.to
+
+Check out my articles on [dev.to](https://dev.to/tanushree_aggarwal) ☁️📖📝
+
 
 - [Scheduling EC2 start and stop using Eventbridge and Lambda (part...](https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-1-of-2-30he) - 13/09/2023
 - [Restricting access through IAM policies](https://dev.to/aws-builders/restricting-access-through-iam-policies-3p0o) - 31/08/2023
