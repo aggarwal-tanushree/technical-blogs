@@ -1,0 +1,30 @@
+name: "Update dev.to blog list"
+on:
+schedule:
+- cron: '45 13 * * *'
+push:
+    branches:
+      - main
+
+
+jobs:
+    update-articles:
+        permissions: write-all
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+            - name: Generate README to list blogs
+              uses: huantt/article-listing@v1.0.0
+              with:
+                username: tanushree_aggarwal 
+                limit: 10
+                template-file: 'README.md.template'
+                out-file: 'README.md'
+                
+            - name: Commit
+              run: |
+                git config user.name github-actions
+                git config user.email github-actions@github.com
+                git add .
+                git commit -m "update articles"
+                git push origin main
