@@ -1,4 +1,5 @@
 
+- [Scheduling EC2 start and stop using Eventbridge and Lambda (part...](https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-2-of-2-344) - 14/09/2023
 - [Hacktoberfest2023 - completion!](https://dev.to/tanushree_aggarwal/hacktoberfest2023-completion-4pe6) - 28/10/2023
 - [Hacktoberfest2023 newbie - Pledge](https://dev.to/tanushree_aggarwal/hacktoberfest2023-newbie-pledge-2g2c) - 26/09/2023
 - [Linux: 3 ways to search patterns in files](https://dev.to/tanushree_aggarwal/linux-3-ways-to-search-patterns-in-files-1do0) - 22/09/2023
@@ -6,6 +7,14 @@
 - [Restricting access through IAM policies](https://dev.to/aws-builders/restricting-access-through-iam-policies-3p0o) - 31/08/2023
 
 <table>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-2-of-2-344">Scheduling EC2 start and stop using Eventbridge and Lambda (part...</a>
+                <div>Introduction   In our previous blog, we discussed the use case and the architecture. The...</div>
+                <div><i>14/09/2023</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
