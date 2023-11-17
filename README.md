@@ -1,4 +1,5 @@
 
+- [AWS PartyRock - Anyone can become a developer](https://dev.to/aws-builders/aws-partyrock-anyone-can-become-a-developer-2kn5) - 16/11/2023
 - [Scheduling EC2 start and stop using Eventbridge and Lambda (part...](https://dev.to/aws-builders/scheduling-ec2-start-and-stop-using-eventbridge-and-lambda-part-2-of-2-344) - 14/09/2023
 - [Hacktoberfest2023 - completion!](https://dev.to/tanushree_aggarwal/hacktoberfest2023-completion-4pe6) - 28/10/2023
 - [Hacktoberfest2023 newbie - Pledge](https://dev.to/tanushree_aggarwal/hacktoberfest2023-newbie-pledge-2g2c) - 26/09/2023
@@ -7,6 +8,14 @@
 - [Restricting access through IAM policies](https://dev.to/aws-builders/restricting-access-through-iam-policies-3p0o) - 31/08/2023
 
 <table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bZK4Rz9g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsjv69fari6d7snxa0z1.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/aws-builders/aws-partyrock-anyone-can-become-a-developer-2kn5">AWS PartyRock - Anyone can become a developer</a>
+                <div>Building apps is a party with Partyrock!   PartyRock, powered by AI foundation models from...</div>
+                <div><i>16/11/2023</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
